@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @constriz
+- 👋 Hi, I’m Conor
 - 👀 I’m interested in automating processes in civil engineering/ land development.
 - 🌱 I’m currently learning Python and Dynamo for Civil3D.
 - 💞️ I’m looking to collaborate on automating processes in civil engineering and land development.
